@@ -1,0 +1,11 @@
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\bin\Debug\Uppdatera Rainmeter listor.exe
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\bin\Debug\Uppdatera Rainmeter listor.pdb
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter Telephonelist.csprojResolveAssemblyReference.cache
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter.ChangeP.resources
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter.Form1.resources
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter.About.resources
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter.Help.resources
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter.WhatToSave.resources
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Rainmeter Telephonelist.csproj.GenerateResource.Cache
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Uppdatera Rainmeter listor.exe
+H:\Programmering\Rainmeter Telephonelist\Rainmeter Telephonelist\obj\x86\Debug\Uppdatera Rainmeter listor.pdb
